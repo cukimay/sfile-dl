@@ -1,2 +1,2 @@
 # sfile
-downloader file sfile.mobi with cli
+need install : apt install curl && apt install wget
